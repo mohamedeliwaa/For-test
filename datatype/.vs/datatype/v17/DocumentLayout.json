@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOQ\\Desktop\\c\u002B\u002B\\projects\\datatype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8E45DB-FC66-4F51-9215-2E6F82E7DAA4}|datatype\\datatype.vcxproj|C:\\Users\\LOQ\\Desktop\\c\u002B\u002B\\projects\\datatype\\datatype\\datatype.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E8E45DB-FC66-4F51-9215-2E6F82E7DAA4}|datatype\\datatype.vcxproj|solutionrelative:datatype\\datatype.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "datatype.cpp",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\c\u002B\u002B\\projects\\datatype\\datatype\\datatype.cpp",
+              "RelativeDocumentMoniker": "datatype\\datatype.cpp",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\c\u002B\u002B\\projects\\datatype\\datatype\\datatype.cpp",
+              "RelativeToolTip": "datatype\\datatype.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-23T23:13:19.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

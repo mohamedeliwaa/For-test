@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOQ\\Desktop\\c\u002B\u002B\\projects\\Print the following pattern using loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68308943-15F3-4113-9804-FF6784615CB7}|Print the following pattern using loop\\Print the following pattern using loop.vcxproj|C:\\Users\\LOQ\\Desktop\\c\u002B\u002B\\projects\\Print the following pattern using loop\\Print the following pattern using loop\\Print the following pattern using loop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68308943-15F3-4113-9804-FF6784615CB7}|Print the following pattern using loop\\Print the following pattern using loop.vcxproj|solutionrelative:Print the following pattern using loop\\Print the following pattern using loop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Print the following pattern using loop.cpp",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\c\u002B\u002B\\projects\\Print the following pattern using loop\\Print the following pattern using loop\\Print the following pattern using loop.cpp",
+              "RelativeDocumentMoniker": "Print the following pattern using loop\\Print the following pattern using loop.cpp",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\c\u002B\u002B\\projects\\Print the following pattern using loop\\Print the following pattern using loop\\Print the following pattern using loop.cpp",
+              "RelativeToolTip": "Print the following pattern using loop\\Print the following pattern using loop.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-06T09:15:42.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
